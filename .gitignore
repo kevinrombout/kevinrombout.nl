@@ -1,5 +1,6 @@
 .htaccess
 .htpasswd
+composer.lock
 /conf/
 /content/
 /static/node_modules/

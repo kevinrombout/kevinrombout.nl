@@ -19,6 +19,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "atabix/atabase": "2.*",
+        "symfony/symfony": "^3.0"
     }
 }
