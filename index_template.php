@@ -9,6 +9,8 @@ date_default_timezone_set("Europe/Amsterdam");
     $nameSpace = 'Kevin';
     $baseDir = __DIR__;
     require_once $baseDir.'/vendor/autoload.php';
+    $string = __DIR__."/logo.html";
+    
+	header($string);
 
-
-	
+?>
