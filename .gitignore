@@ -3,7 +3,7 @@
 composer.lock
 /conf/
 /content/
-/static/node_modules/
+/static/bower_components/
 /static/admin/node_modules/
 /tmp/
 /vendor/
