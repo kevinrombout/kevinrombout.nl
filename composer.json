@@ -1,0 +1,24 @@
+{
+    "name": "kevinrombout.nl",
+    "description": "Homepage van Kevin Rombout",
+    "homepage": "https://kevinrombout.nl",
+    "license": "MIT",
+    "keywords": [
+        "Kevin Rombout"
+    ],
+    "authors": [
+        {
+            "name": "Kevin Rombout",
+            "email": "info@kevinrombout.nl",
+            "homepage": "http://kevinrombout.nl",
+            "role": "owner"
+        }
+    ],
+    "support": {
+        "email": "info@kevinrombout.nl"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "atabix/atabase": "2.*",
+    }
+}
