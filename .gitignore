@@ -6,5 +6,3 @@
 /static/admin/node_modules/
 /tmp/
 /vendor/
-/composer/
-/composer.lock
