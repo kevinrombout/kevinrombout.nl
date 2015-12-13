@@ -1,2 +1,10 @@
 .htaccess
 .htpasswd
+/conf/
+/content/
+/static/node_modules/
+/static/admin/node_modules/
+/tmp/
+/vendor/
+/composer/
+/composer.lock
